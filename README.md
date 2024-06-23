@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hari Bhandari</h1>
-<h3 align="center">I am passionate on Frontend and Backend web development.</h3>
+<h3 align="center">I am passionate Frontend and Backend web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haribh14&label=Profile%20views&color=0e75b6&style=flat" alt="haribh14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@search_hari" target="blank"><img src="https://img.shields.io/twitter/follow/@search_hari?logo=twitter&style=for-the-badge" alt="@search_hari" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend and backend web development**
+- 🌱 I’m currently learning **Frontend and Backend web development**
 
 - 📫 How to reach me **bhandarihari710@gmail.com**
+
+- ⚡ Fun fact **Comming soon..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@search_hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@search_hari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hari-bhandari-13a5b9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-bhandari-13a5b9229" height="30" width="40" /></a>
-<a href="https://instagram.com/hari_bh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari_bh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hariytvlog2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hariytvlog2552" height="30" width="40" /></a>
+<a href="https://instagram.com/hari_bhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari_bhn" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hariyt vlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hariyt vlog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
