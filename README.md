@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Bhandari</h1>
-<h3 align="center">I am passionate on frontend and backend web development.</h3>
+<h3 align="center">I am passionate on Frontend and Backend web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haribh14&label=Profile%20views&color=0e75b6&style=flat" alt="haribh14" /> </p>
 
