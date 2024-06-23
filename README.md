@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@search_hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@search_hari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hari-bhandari-13a5b9229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-bhandari-13a5b9229" height="30" width="40" /></a>
 <a href="https://instagram.com/hari_bhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari_bhn" height="30" width="40" /></a>
-  <a href="https://youtube/@hariytvlog2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hariytvlog2552" height="30" width="40" /></a>
+  <a href="https://youtube.com/@hariytvlog2552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hariytvlog2552" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
