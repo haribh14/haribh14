@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@search_hari" target="blank"><img src="https://img.shields.io/twitter/follow/@search_hari?logo=twitter&style=for-the-badge" alt="@search_hari" /></a> </p>
 
-- 🌱 I’m currently learning **Front and Backend web development.**
+- 🌱 I’m currently learning **Frontend and Backend web development.**
 
-- 📫 How to reach me **bhandarihar519@gmail.com**
+- 📫 How to reach me: **bhandarihar519@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
